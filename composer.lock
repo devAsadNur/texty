@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0f14306caf3f4c89841bf422eb36498f",
+    "content-hash": "41046b87ae249c8e30b69ce8fefa812a",
     "packages": [
         {
             "name": "appsero/client",
-            "version": "dev-develop",
+            "version": "v2.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Appsero/client.git",
-                "reference": "aef4cf138ab4f348cee4e2f20f7d3cd815db0877"
+                "reference": "12ff65b9770286d21edf314e7acfcd26fdde3315"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Appsero/client/zipball/aef4cf138ab4f348cee4e2f20f7d3cd815db0877",
-                "reference": "aef4cf138ab4f348cee4e2f20f7d3cd815db0877",
+                "url": "https://api.github.com/repos/Appsero/client/zipball/12ff65b9770286d21edf314e7acfcd26fdde3315",
+                "reference": "12ff65b9770286d21edf314e7acfcd26fdde3315",
                 "shasum": ""
             },
             "require": {
@@ -31,7 +31,6 @@
                 "tareq1988/wp-php-cs-fixer": "dev-master",
                 "wp-coding-standards/wpcs": "dev-develop"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -57,9 +56,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Appsero/client/issues",
-                "source": "https://github.com/Appsero/client/tree/develop"
+                "source": "https://github.com/Appsero/client/tree/v2.0.4"
             },
-            "time": "2024-11-25T05:58:43+00:00"
+            "time": "2024-11-25T05:58:23+00:00"
         }
     ],
     "packages-dev": [
@@ -1828,7 +1827,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "appsero/client": 20,
         "tareq1988/wp-php-cs-fixer": 20,
         "wp-coding-standards/wpcs": 20
     },
